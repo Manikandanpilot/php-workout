@@ -1,0 +1,15 @@
+.des
+{
+ width:35%;
+ margin: auto;
+ padding: 10px;
+
+}
+button[type="button"]
+{
+	padding: 20px;
+}
+.form-group
+{
+	padding: 20px;
+}
