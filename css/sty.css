@@ -1,0 +1,32 @@
+/*#example
+{
+color: white;
+}
+.d1 img
+
+{
+  
+  height:300px;
+  width:250px;
+
+}
+img{
+    opacity:0.9;
+    
+}
+img:hover{
+    opacity:1;
+}
+footer
+{
+margin-top:75%;
+    background-color:black;
+}*/
+#t1,#t2
+{
+height:75%;
+width:45%;
+font-size:100px;
+
+    
+}
